@@ -9,3 +9,6 @@ https://saadsiddiqui00.github.io/Calculator/
 - HTML
 - CSS
 - JavaScript
+
+- ## Screenshot
+![Calculator Screenshot](screenshot.png)
